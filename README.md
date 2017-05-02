@@ -20,3 +20,5 @@ The challenge is to read in two provided tab delimited files and:
 There were x incidences of duplicate first names
 The average age for both files was x
  </pre>
+
+### To run the code execute the main method in com.genova.main.CodingChallenge
