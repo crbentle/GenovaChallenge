@@ -21,4 +21,8 @@ There were x incidences of duplicate first names
 The average age for both files was x
  </pre>
 
+This was developed using:
+- Java version "1.8.0_91" 
+- Eclipse Neon Release (4.6.3)
+
 ### To run the code execute the main method in com.genova.main.CodingChallenge
